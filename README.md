@@ -1,9 +1,10 @@
-<h1 align="left">Hi 👋, I'm Pakawat panklang</h1>
-<h3 align="left">still student🐤</h3>
+<h1 align="center">Hi~~~~🌙💫🌟</h1>
+<h3 align="left"> I'm Pakawat panklang</h3>
+<h4 align="left">still student🐤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimpk2w&label=Profile%20views&color=0e75b6&style=flat" alt="jimpk2w" /> </p>
 
-- 📫 How to context me **pakawat.pan@ku.th**
+- 📫 contact me 😘**pakawat.pan@ku.th**
 
 <h3 align="left">My social:</h3>
 <p align="left">
