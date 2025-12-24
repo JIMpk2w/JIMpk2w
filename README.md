@@ -16,7 +16,7 @@
 <!-- Social Media -->
 <h3 align="center" style="font-size: 1.3em;">Connect with me 🌐</h3>
 <p align="center">
-  <a href="https://fb.com/ใครว้า ไม่รุจัก" target="blank">
+  <a href="https://www.facebook.com/kh.r.wa.mi.ru.cak.818797" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" style="margin: 0 10px;" />
   </a>
   <a href="https://instagram.com/jim_pk2w" target="blank">
